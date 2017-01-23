@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="firebaseiosadmob" is-shell="true">
+  <name>Firebase AdMob for iOS</name>
+  <publisher>Xamarin Inc</publisher>
+  <publisher-url>https://xamarin.com</publisher-url>
+  <docs-url>https://firebase.google.com/docs/admob/</docs-url>
+  <src-url>https://github.com/xamarin/GoogleApisForiOSComponents/tree/master/Firebae.AdMob</src-url>
+  <version>7.15.0.1</version>
+  <summary>Connect with advertisers and show relevant ads in your app. Users click on ads, you make money.</summary>
+  <packages>
+    <package id="Xamarin.Firebase.iOS.AdMob" version="7.15.0.0" framework="ios-unified" />
+  </packages>
+  <samples>
+    <sample id="AdMobSample">
+      <name>AdMob Sample</name>
+      <summary>AdMob Sample</summary>
+    </sample>
+  </samples>
+</component>
